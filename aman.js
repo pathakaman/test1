@@ -4,6 +4,8 @@ export default class Aman extends React.component {
         return (
             <div>
                 <p>Heading</p>
+                <p>Heading 1</p>
+                <p>Paragrapgh</p>
             </div>
         )
     }
